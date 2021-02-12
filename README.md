@@ -21,6 +21,12 @@ Enable to start after reboot and run the remote desktop sharing server xrdp:
 Still on the Ubuntu 20.04 desktop, open a firewall port 3389 for an incoming traffic:
 > sudo ufw allow from any to any port 3389 proto tcp
 ## Step 4
+Log out of the ubuntu computer you want to connect to 
+## Step 5
+Press the winodws button on your windows computer and type rdp
+> click on rdp and enter the remote computer's IP address like below 
 ![Windows 10](https://linuxconfig.org/images/01-ubuntu-20-04-remote-desktop-access-from-windows-10.png)
 ## Step 5
+#### Enter the username and password for the remote server
 ![Windows 10](RDPUbuntu.png)
+
