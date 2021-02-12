@@ -28,5 +28,6 @@ Press the winodws button on your windows computer and type rdp
 ![Windows 10](https://linuxconfig.org/images/01-ubuntu-20-04-remote-desktop-access-from-windows-10.png)
 ## Step 5
 #### Enter the username and password for the remote server
+Press enter after entering the username and password of the remote ubuntu computer 
 ![Windows 10](RDPUbuntu.png)
 
