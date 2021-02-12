@@ -23,4 +23,4 @@ Still on the Ubuntu 20.04 desktop, open a firewall port 3389 for an incoming tra
 ## Step 4
 ![Windows 10](https://linuxconfig.org/images/01-ubuntu-20-04-remote-desktop-access-from-windows-10.png)
 ## Step 5
-![Windows 10](https://linuxconfig.org/images/03-ubuntu-20-04-remote-desktop-access-from-windows-10.png)
+![Windows 10](RDPUbuntu.png)
